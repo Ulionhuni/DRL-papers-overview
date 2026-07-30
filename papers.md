@@ -11,7 +11,7 @@
 
 ### Gradient minimization family
 
-- **Proximal Policy Optimisation Algorithms** (2017) — *PPO*
+- **Proximal Policy Optimization Algorithms** (2017) — *PPO*
   [arxiv.org/abs/1707.06347](https://arxiv.org/abs/1707.06347)
 
 ## Applications
