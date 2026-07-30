@@ -9,7 +9,7 @@
 - **Meta-Learning in Self-Play Regret Minimisation** (2025) — *NPCFR (Neural Predictive Counterfactual Regret)*
   [arxiv.org/abs/2504.18917](https://arxiv.org/abs/2504.18917)
 
-### Gradient minimisation family
+### Gradient minimization family
 
 - **Proximal Policy Optimisation Algorithms** (2017) — *PPO*
   [arxiv.org/abs/1707.06347](https://arxiv.org/abs/1707.06347)
