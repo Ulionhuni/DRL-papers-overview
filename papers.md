@@ -6,7 +6,7 @@
 
 - **Learning Not to Regret** (2024) — *NPRM (Neural Predictive Regret Matching)*
   [arxiv.org/abs/2303.01074](https://arxiv.org/abs/2303.01074)
-- **Meta-Learning in Self-Play Regret Minimisation** (2025) — *NPCFR (Neural Predictive Counterfactual Regret)*
+- **Meta-Learning in Self-Play Regret Minimization** (2025) — *NPCFR (Neural Predictive Counterfactual Regret)*
   [arxiv.org/abs/2504.18917](https://arxiv.org/abs/2504.18917)
 
 ### Gradient minimization family
