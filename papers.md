@@ -1,3 +1,7 @@
+# Useful sources to keep up
+
+## https://www.connectedpapers.com
+
 # Reading list
 
 ## Theory
