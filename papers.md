@@ -6,6 +6,12 @@
 
 ## Theory
 
+### Value-Based Methods (Historical basis) 
+
+### Search-based methods family 
+
+### Evolutionary methods family 
+
 ### CFR family
 
 - **Learning Not to Regret** (2024) — *NPRM (Neural Predictive Regret Matching)*
@@ -18,6 +24,9 @@
 - **Proximal Policy Optimization Algorithms** (2017) — *PPO*
   [arxiv.org/abs/1707.06347](https://arxiv.org/abs/1707.06347)
 
+
+
+### 
 ## Applications
 
 - **Superhuman AI for Generals.io using Self-Play Reinforcement Learning** (2025)
