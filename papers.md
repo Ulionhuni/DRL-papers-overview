@@ -24,7 +24,11 @@
 - **Proximal Policy Optimisation Algorithms** (2017) — *PPO*
   [arxiv.org/abs/1707.06347](https://arxiv.org/abs/1707.06347)
 
-
+### Multi-Agent Reinforcement Learning
+- **Cooperative Multi-agent Reinforcement Learning** (2021)
+  [https://dspace.cuni.cz](https://dspace.cuni.cz/bitstream/handle/20.500.11956/127431/120389211.pdf?sequence=1&isAllowed=y)
+- **Multi-Agent Constrained Policy Optimisation** (2022) - *MACPO, MACPO-Lagrangian*
+  [arxiv.org/abs/2110.02793](https://arxiv.org/abs/2110.02793)
 
 ### 
 ## Applications
