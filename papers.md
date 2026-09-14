@@ -36,5 +36,5 @@
 - **Superhuman AI for Generals.io using Self-Play Reinforcement Learning** (2025)
   [arxiv.org/abs/2606.23348](https://arxiv.org/abs/2606.23348)
 ## Optimisations
-- **GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay (2026)
+- **GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay** (2026)
   [arxiv.org/abs/2609.11923]{https://arxiv.org/abs/2609.11923}
